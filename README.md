@@ -1,2 +1,2 @@
 # Javascript
-JavaScript from Chaiaur Code
+JavaScript from Apnacollege.
